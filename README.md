@@ -1,42 +1,66 @@
-# Hi, I am Arif Furmani
+# Hi, I'm Arif Furmani
 
-Backend Software Engineer with experience building scalable, production ready backend systems.
-I specialize in Java and Spring Boot and enjoy designing clean architectures and reliable APIs.
+**Senior Backend Engineer** · Java & Spring Boot · Microservices · Cloud (AWS, GCP)
 
-### About Me
-- Backend Engineer at WebOsmotic
-- Experience working on cloud based and microservice oriented systems
-- Focused on writing clean, maintainable, and testable backend code
-- Actively preparing for product based company roles
+5 years building scalable, production-grade backend systems. Led teams, shipped cloud platforms, and delivered services running in real production environments.
 
-### Tech Stack
-- Languages: Java, JavaScript
-- Frameworks: Spring Boot, JUnit
-- Backend Concepts: REST APIs, Microservices, Multithreading, Concurrency
-- Databases: MySQL, SQL
-- Cloud and DevOps: AWS, Google Cloud Platform, Docker
-- Tools: Git, Linux
+---
 
-### Featured Projects
-- Cloud Resource Provisioning Service  
-  Java Spring Boot service that automates provisioning of cloud resources such as VMs, load balancers, Redis, SSL certificates, and Cloud SQL across multiple environments.  
-  Includes concurrent provisioning using multithreading to reduce setup time.
+### 🚀 What I Do
 
-- Confidential Client Backend Service  
-  Designed and developed a standalone backend provisioning service deployed on Google Cloud Marketplace.  
-  Built REST APIs, implemented concurrency, and collaborated with QA and design teams to deliver a production ready system.
+- **Backend Engineering** — Design and build robust REST APIs, microservices architectures, and distributed systems using Java and Spring Boot
+- **Cloud Platforms** — Hands-on experience shipping and maintaining services on both AWS and Google Cloud Platform
+- **Team Leadership** — Led a team of 5 engineers: sprint planning, code reviews, technical interviews, and client calls with international stakeholders
+- **Concurrency & Performance** — Deep expertise in Java multithreading and concurrent design patterns applied in production systems
 
-### What I Am Currently Working On
-- Strengthening data structures and algorithms
-- Revising system design and backend architecture concepts
-- Building scalable backend projects inspired by real world use cases
+---
 
-### Strengths
-- Clean backend architecture and code structure
-- Strong understanding of Java multithreading and concurrency
-- Designing scalable RESTful APIs
-- Debugging and problem solving in production systems
+### 🏗️ Featured Projects
 
-### Connect With Me
-- LinkedIn: www.linkedin.com/in/furmaniarif
-- Email: ariffurmani.77@gmail.com
+#### Multi-Tenant GCP Cloud Provisioning Service
+Automates provisioning of VMs, load balancers, Redis instances, SSL certificates, and Cloud SQL databases across multiple cloud environments. Uses Java multithreading to execute provisioning tasks concurrently, significantly reducing setup time. Deployed on **Google Cloud Marketplace**.
+
+`Java` `Spring Boot` `GCP REST API` `Multithreading` `Cloud Marketplace`
+
+---
+
+#### E-Commerce Microservices Platform (AWS)
+Production-grade microservices backend with Stripe payment integration, Redis caching, MySQL, and clean REST APIs. Designed around service boundary principles and deployed live on AWS.
+
+`Java` `Spring Boot` `MySQL` `Redis` `Stripe` `AWS` `Docker`
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Java, JavaScript, Python |
+| **Frameworks** | Spring Boot, JUnit |
+| **Backend** | REST APIs, Microservices, Multithreading, Concurrency |
+| **Databases** | MySQL, SQL, Redis |
+| **Cloud & DevOps** | AWS, Google Cloud Platform, Docker |
+| **Tools** | Git, Linux |
+
+---
+
+### 📈 Currently
+
+- Strengthening **Data Structures & Algorithms** and **System Design** (Scaler Academy — DSA, LLD, HLD)
+- Pursuing **Scaler × IIT Roorkee Advanced AI Engineering Program** — GenAI, RAG, MCP, AI Agents
+- Building backend projects inspired by real-world product engineering challenges
+
+---
+
+### 🎓 Education & Certifications
+
+- **BE Computer Engineering** — Gujarat Technological University, 2019
+- **Specialisation in Software Development** — Scaler Academy, 2025 (DSA, System Design, LLD, HLD, Databases)
+- **Advanced AI Engineering Program** — Scaler × IIT Roorkee *(pursuing)*
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-furmaniarif-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/furmaniarif)
+[![Email](https://img.shields.io/badge/Email-ariffurmani.77@gmail.com-EA4335?style=flat&logo=gmail)](mailto:ariffurmani.77@gmail.com)
