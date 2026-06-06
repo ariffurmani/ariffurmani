@@ -2,7 +2,6 @@
 
 **Senior Backend Engineer** · Java & Spring Boot · Microservices · Cloud (AWS, GCP)
 
-5 years building scalable, production-grade backend systems. Led teams, shipped cloud platforms, and delivered services running in real production environments.
 5+ years of engineering experience building scalable backend systems and cloud-native platforms. Experienced in leading teams, architecting distributed systems, and delivering high-impact software at scale. Currently exploring GenAI, LLM applications, AI agents, and next-generation developer tooling.
 ---
 
