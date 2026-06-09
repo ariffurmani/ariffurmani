@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 - **Backend Engineering** — Design and build robust REST APIs, microservices architectures, and distributed systems using Java and Spring Boot
 - **Cloud Platforms** — Hands-on experience shipping and maintaining services on both AWS and Google Cloud Platform
@@ -15,7 +15,7 @@
 
 ---
 
-### 🏗️ Featured Projects
+### Featured Projects
 
 #### Multi-Tenant GCP Cloud Provisioning Service
 Automates provisioning of VMs, load balancers, Redis instances, SSL certificates, and Cloud SQL databases across multiple cloud environments. Uses Java multithreading to execute provisioning tasks concurrently, significantly reducing setup time. Deployed on **Google Cloud Marketplace**.
@@ -31,7 +31,7 @@ Production-grade microservices backend with Stripe payment integration, Redis ca
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
@@ -44,7 +44,7 @@ Production-grade microservices backend with Stripe payment integration, Redis ca
 
 ---
 
-### 📈 Currently
+### Currently
 
 - Strengthening **Data Structures & Algorithms** and **System Design** (Scaler Academy — DSA, LLD, HLD)
 - Pursuing **Scaler × IIT Roorkee Advanced AI Engineering Program** — GenAI, RAG, MCP, AI Agents
@@ -52,7 +52,7 @@ Production-grade microservices backend with Stripe payment integration, Redis ca
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
 - **BE Computer Engineering** — Gujarat Technological University, 2019
 - **Specialisation in Software Development** — Scaler Academy, 2025 (DSA, System Design, LLD, HLD, Databases)
@@ -60,7 +60,7 @@ Production-grade microservices backend with Stripe payment integration, Redis ca
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furmaniarif-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/furmaniarif)
 [![Email](https://img.shields.io/badge/Email-ariffurmani.77@gmail.com-EA4335?style=flat&logo=gmail)](mailto:ariffurmani.77@gmail.com)
